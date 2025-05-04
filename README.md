@@ -19,3 +19,5 @@ python manage.py runserver
 
 5. Tester dans un navigateur
 http://127.0.0.1:8000/run-algos/
+
+http://127.0.0.1:8000/surveillances/Enseignant%2010/ -->l'enseignant 10
